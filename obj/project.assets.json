@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Noe Soto\\Desktop\\TMod Sword Project\\Terraria_Sword\\Terraria_Sword.csproj",
+      "projectUniqueName": "C:\\Users\\Gary\\Desktop\\tmodproj\\Terraria_Sword\\Terraria_Sword.csproj",
       "projectName": "Terraria_Sword",
-      "projectPath": "C:\\Users\\Noe Soto\\Desktop\\TMod Sword Project\\Terraria_Sword\\Terraria_Sword.csproj",
-      "packagesPath": "C:\\Users\\Noe Soto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Noe Soto\\Desktop\\TMod Sword Project\\Terraria_Sword\\obj\\",
+      "projectPath": "C:\\Users\\Gary\\Desktop\\tmodproj\\Terraria_Sword\\Terraria_Sword.csproj",
+      "packagesPath": "C:\\Users\\Gary\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Gary\\Desktop\\tmodproj\\Terraria_Sword\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gary\\AppData\\Roaming\\NuGet\\NuGet.Config"

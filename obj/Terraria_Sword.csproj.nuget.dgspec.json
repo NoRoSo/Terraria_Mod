@@ -2,6 +2,7 @@
   "format": 1,
   "restore": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "C:\\Users\\Noe Soto\\Desktop\\tmodproj\\Terraria_Sword\\Terraria_Sword.csproj": {}
   },
   "projects": {
@@ -26,6 +27,19 @@
         "packagesPath": "C:\\Users\\Gary\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Gary\\Desktop\\tmodproj\\Terraria_Sword\\obj\\",
 >>>>>>> 815db37 (this is a test commit)
+=======
+    "C:\\Users\\Gary\\Desktop\\tmodproj\\Terraria_Sword\\Terraria_Sword.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Gary\\Desktop\\tmodproj\\Terraria_Sword\\Terraria_Sword.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gary\\Desktop\\tmodproj\\Terraria_Sword\\Terraria_Sword.csproj",
+        "projectName": "Terraria_Sword",
+        "projectPath": "C:\\Users\\Gary\\Desktop\\tmodproj\\Terraria_Sword\\Terraria_Sword.csproj",
+        "packagesPath": "C:\\Users\\Gary\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gary\\Desktop\\tmodproj\\Terraria_Sword\\obj\\",
+>>>>>>> 815db371f86e6a0499448a6c5fc484b105f99910
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gary\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -14,6 +14,7 @@ C:\Users\Noe Soto\Desktop\TMod Sword Project\Terraria_Sword\obj\Debug\net6.0\Ter
 C:\Users\Noe Soto\Desktop\TMod Sword Project\Terraria_Sword\obj\Debug\net6.0\Terraria_Sword.genruntimeconfig.cache
 C:\Users\Noe Soto\Desktop\TMod Sword Project\Terraria_Sword\obj\Debug\net6.0\ref\Terraria_Sword.dll
 <<<<<<< HEAD
+<<<<<<< HEAD
 C:\Users\Noe Soto\Desktop\tmodproj\Terraria_Sword\bin\Debug\net6.0\Terraria_Sword.exe
 C:\Users\Noe Soto\Desktop\tmodproj\Terraria_Sword\bin\Debug\net6.0\Terraria_Sword.deps.json
 C:\Users\Noe Soto\Desktop\tmodproj\Terraria_Sword\bin\Debug\net6.0\Terraria_Sword.runtimeconfig.json
@@ -30,6 +31,8 @@ C:\Users\Noe Soto\Desktop\tmodproj\Terraria_Sword\obj\Debug\net6.0\Terraria_Swor
 C:\Users\Noe Soto\Desktop\tmodproj\Terraria_Sword\obj\Debug\net6.0\Terraria_Sword.genruntimeconfig.cache
 C:\Users\Noe Soto\Desktop\tmodproj\Terraria_Sword\obj\Debug\net6.0\ref\Terraria_Sword.dll
 =======
+=======
+>>>>>>> 815db371f86e6a0499448a6c5fc484b105f99910
 C:\Users\Gary\Desktop\tmodproj\Terraria_Sword\bin\Debug\net6.0\Terraria_Sword.exe
 C:\Users\Gary\Desktop\tmodproj\Terraria_Sword\bin\Debug\net6.0\Terraria_Sword.deps.json
 C:\Users\Gary\Desktop\tmodproj\Terraria_Sword\bin\Debug\net6.0\Terraria_Sword.runtimeconfig.json
@@ -45,4 +48,7 @@ C:\Users\Gary\Desktop\tmodproj\Terraria_Sword\obj\Debug\net6.0\refint\Terraria_S
 C:\Users\Gary\Desktop\tmodproj\Terraria_Sword\obj\Debug\net6.0\Terraria_Sword.pdb
 C:\Users\Gary\Desktop\tmodproj\Terraria_Sword\obj\Debug\net6.0\Terraria_Sword.genruntimeconfig.cache
 C:\Users\Gary\Desktop\tmodproj\Terraria_Sword\obj\Debug\net6.0\ref\Terraria_Sword.dll
+<<<<<<< HEAD
 >>>>>>> 815db37 (this is a test commit)
+=======
+>>>>>>> 815db371f86e6a0499448a6c5fc484b105f99910

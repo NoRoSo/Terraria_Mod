@@ -1,6 +1,7 @@
 {
   "version": 2,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "dgSpecHash": "cClstJl/JefCo9GX7gp0TzemWN5qShX3qTbcFVxgBxCjijVaVo9VUHGmRzmbMrLZiRTXHUu7mEmv5BKbNOIXlQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Noe Soto\\Desktop\\tmodproj\\Terraria_Sword\\Terraria_Sword.csproj",
@@ -9,6 +10,11 @@
   "success": true,
   "projectFilePath": "C:\\Users\\Gary\\Desktop\\tmodproj\\Terraria_Sword\\Terraria_Sword.csproj",
 >>>>>>> 815db37 (this is a test commit)
+=======
+  "dgSpecHash": "/sJex8xIeL7sZDzTtgXHZa27g2F7nhkaYHF7cxWeikbDs69cCExlrp84xyCANKFKE0iYbgpOc5HOQr8G/d/loQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gary\\Desktop\\tmodproj\\Terraria_Sword\\Terraria_Sword.csproj",
+>>>>>>> 815db371f86e6a0499448a6c5fc484b105f99910
   "expectedPackageFiles": [],
   "logs": []
 }
