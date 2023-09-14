@@ -13,3 +13,18 @@ C:\Users\Noe Soto\Desktop\TMod Sword Project\Terraria_Sword\obj\Debug\net6.0\ref
 C:\Users\Noe Soto\Desktop\TMod Sword Project\Terraria_Sword\obj\Debug\net6.0\Terraria_Sword.pdb
 C:\Users\Noe Soto\Desktop\TMod Sword Project\Terraria_Sword\obj\Debug\net6.0\Terraria_Sword.genruntimeconfig.cache
 C:\Users\Noe Soto\Desktop\TMod Sword Project\Terraria_Sword\obj\Debug\net6.0\ref\Terraria_Sword.dll
+C:\Users\Noe Soto\Desktop\tmodproj\Terraria_Sword\bin\Debug\net6.0\Terraria_Sword.exe
+C:\Users\Noe Soto\Desktop\tmodproj\Terraria_Sword\bin\Debug\net6.0\Terraria_Sword.deps.json
+C:\Users\Noe Soto\Desktop\tmodproj\Terraria_Sword\bin\Debug\net6.0\Terraria_Sword.runtimeconfig.json
+C:\Users\Noe Soto\Desktop\tmodproj\Terraria_Sword\bin\Debug\net6.0\Terraria_Sword.dll
+C:\Users\Noe Soto\Desktop\tmodproj\Terraria_Sword\bin\Debug\net6.0\Terraria_Sword.pdb
+C:\Users\Noe Soto\Desktop\tmodproj\Terraria_Sword\obj\Debug\net6.0\Terraria_Sword.csproj.AssemblyReference.cache
+C:\Users\Noe Soto\Desktop\tmodproj\Terraria_Sword\obj\Debug\net6.0\Terraria_Sword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noe Soto\Desktop\tmodproj\Terraria_Sword\obj\Debug\net6.0\Terraria_Sword.AssemblyInfoInputs.cache
+C:\Users\Noe Soto\Desktop\tmodproj\Terraria_Sword\obj\Debug\net6.0\Terraria_Sword.AssemblyInfo.cs
+C:\Users\Noe Soto\Desktop\tmodproj\Terraria_Sword\obj\Debug\net6.0\Terraria_Sword.csproj.CoreCompileInputs.cache
+C:\Users\Noe Soto\Desktop\tmodproj\Terraria_Sword\obj\Debug\net6.0\Terraria_Sword.dll
+C:\Users\Noe Soto\Desktop\tmodproj\Terraria_Sword\obj\Debug\net6.0\refint\Terraria_Sword.dll
+C:\Users\Noe Soto\Desktop\tmodproj\Terraria_Sword\obj\Debug\net6.0\Terraria_Sword.pdb
+C:\Users\Noe Soto\Desktop\tmodproj\Terraria_Sword\obj\Debug\net6.0\Terraria_Sword.genruntimeconfig.cache
+C:\Users\Noe Soto\Desktop\tmodproj\Terraria_Sword\obj\Debug\net6.0\ref\Terraria_Sword.dll
