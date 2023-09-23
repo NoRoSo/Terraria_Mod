@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OsKsVWE6zgL9qBY1H9z23gwxmMWlpfYCLQGKAwjsYTt0KHAOignAfV4K9A4TCfbkha78yIoPwY7Vo95JqlLaVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Noe Soto\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestBoss\\TestBoss.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Noe Soto\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
